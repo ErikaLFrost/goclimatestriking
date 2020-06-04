@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>f_logo_RGB-Blue</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M30,0 C13.4314453,0 0,13.510609 0,30.1768173 C0,45.2389391 10.9705664,57.7231827 25.3125,59.9870334 C27.3972407,60.2219232 28.9607962,60.3393682 30.0031666,60.3393682 C31.0441295,60.3393682 32.605574,60.2219232 34.6875,59.9870334 C49.0294336,57.7231827 60,45.2389391 60,30.1768173 C60,13.510609 46.5685547,0 30,0 Z" id="path-1"></path>
+        <filter x="-26.7%" y="-23.2%" width="153.3%" height="153.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="M-Done" transform="translate(-55.000000, -547.000000)">
+            <g id="f_logo_RGB-Blue" transform="translate(65.000000, 555.000000)">
+                <g id="Group-3">
+                    <g id="Fill-1">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#1877F2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+                <path d="M35.2136986,32.3980583 L35.8356164,28.0873786 L31.9452055,28.0873786 L31.9452055,25.2900097 C31.9452055,24.1106893 32.4886301,22.961165 34.2311781,22.961165 L36,22.961165 L36,19.2912621 C36,19.2912621 34.3947123,19 32.86,19 C29.6558356,19 27.5616438,21.064466 27.5616438,24.8019417 L27.5616438,28.0873786 L24,28.0873786 L24,32.3980583 L27.5616438,32.3980583 L27.5616438,42.818835 C28.2758082,42.9379612 29.0077808,43 29.7534247,43 C30.4990685,43 31.2310411,42.9379612 31.9452055,42.818835 L31.9452055,32.3980583 L35.2136986,32.3980583" id="Fill-4" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

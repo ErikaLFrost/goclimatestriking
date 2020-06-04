@@ -1,0 +1,35 @@
+/*
+  Require after normalize 
+
+  This file changes default behavior for elements. 
+  This shoul not change from project to project. This is more of a preferd startingpoint.
+*/
+*, *::before, *::after {
+ box-sizing: border-box; 
+}
+*:focus {
+  
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/*Titles*/
+h1, h2, h3, h4, h5, h6 {
+  -webkit-font-smoothing: subpixel-antialiased; /* only titles*/
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* All text*/
+h1, h2, h3, h4, h5, h6, p, pre {
+  margin:0;
+  padding:0;
+}
+
+image {
+  vertical-align: middle;
+  display: inline-block;
+}

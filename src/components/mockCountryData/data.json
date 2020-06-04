@@ -1,0 +1,104 @@
+[
+    {
+        "country": "Afghanistan",
+        "lat": "33.93911",
+        "long": "67.709953",
+        "tweets": 8000
+    },
+    {
+        "country": "Albania",
+        "lat": "41.153332",
+        "long": "20.168331",
+        "tweets": 500
+    },
+    {
+        "country": "Algeria",
+        "lat": "28.033886",
+        "long": "1.659626",
+        "tweets": 3000
+    },
+    {
+        "country": "American Samoa",
+        "lat": "-14.270972",
+        "long": "-170.132217",
+        "tweets": 700
+    },
+    {
+        "country": "AndorrA",
+        "lat": "42.546245",
+        "long": "1.601554",
+        "tweets": 2000
+    },
+    {
+        "country": "Angola",
+        "lat": "-11.202692",
+        "long": "17.873887",
+        "tweets": 3000
+    },
+    {
+        "country": "Anguilla",
+        "lat": "18.220554",
+        "long": "-63.068615",
+        "tweets": 100000
+    },
+    {
+        "country": "Antarctica",
+        "lat": "-75.250973",
+        "long": "-0.071389",
+        "tweets": 200
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "lat": "17.060816",
+        "long": "-61.796428",
+        "tweets": 500
+    },
+    {
+        "country": "Argentina",
+        "lat": "-38.416097",
+        "long": "-63.616672",
+        "tweets": 200
+    },
+    {
+        "country": "Armenia",
+        "lat": "40.069099",
+        "long": "45.038189",
+        "tweets": 20000
+    },
+    {
+        "country": "Aruba",
+        "lat": "12.52111",
+        "long": "-69.968338",
+        "tweets": 70000
+    },
+    {
+        "country": "Australia",
+        "lat": "-25.274398",
+        "long": "133.775136",
+        "tweets": 200
+    },
+    {
+        "country": "Austria",
+        "lat": "47.516231",
+        "long": "14.550072",
+        "tweets": 50000
+    },
+    {
+        "country": "Azerbaijan",
+        "lat": "40.143105",
+        "long": "47.576927", 
+        "tweets": 2000
+    },
+    {
+        "country": "Bahamas",
+        "lat": "25.03428",
+        "long": "-77.39628",
+        "tweets": 800
+    },
+    {
+        "country": "Bahrain",
+        "lat": "25.930414",
+        "long": "50.637772",
+        "tweets": 200
+    }
+]

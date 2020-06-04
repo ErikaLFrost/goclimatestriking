@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="177px" height="194px" viewBox="0 0 177 194" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>ic_leaf</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DT-Reg-child-" transform="translate(-148.000000, -736.000000)" fill="#B8E986">
+            <path d="M245.153589,715 C189.051196,734.070042 161,766.027141 161,810.871295 C161,855.71545 189.051196,899.679718 245.153589,942.764098 C300.921093,900.433907 328.932314,856.469639 329.187251,810.871295 C329.442188,765.272952 301.430968,733.315853 245.153589,715 Z" id="ic_leaf" transform="translate(245.094488, 828.882049) rotate(-144.000000) translate(-245.094488, -828.882049) "></path>
+        </g>
+    </g>
+</svg>

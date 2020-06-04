@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="34" viewBox="0 0 34 34">
+    <defs>
+        <circle id="prefix__a" cx="17" cy="17" r="17"/>
+        <path id="prefix__c" d="M0 17c0 9.389 8.06 17 18 17 9.941 0 18-7.611 18-17S27.941 0 18 0C8.06 0 0 7.611 0 17z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="prefix__b" fill="#fff">
+            <use xlink:href="#prefix__a"/>
+        </mask>
+        <use fill="#D8D8D8" xlink:href="#prefix__a"/>
+        <g mask="url(#prefix__b)">
+            <g transform="translate(-1)">
+                <mask id="prefix__d" fill="#fff">
+                    <use xlink:href="#prefix__c"/>
+                </mask>
+                <path fill="#2D2E83" d="M-8 34L44 34 44 0 -8 0z" mask="url(#prefix__d)"/>
+                <path fill="#FEFEFE" d="M43 33L43 28.525 29.172 21 24 21z" mask="url(#prefix__d)"/>
+                <path stroke="#FEFEFE" stroke-width="3" d="M43 33L43 28.525 29.172 21 24 21z" mask="url(#prefix__d)"/>
+                <path fill="#E5332A" d="M43 31L43 29.719 28.029 21 26 21z" mask="url(#prefix__d)"/>
+                <path stroke="#E5332A" stroke-width="3" d="M43 31L43 29.719 28.029 21 26 21z" mask="url(#prefix__d)"/>
+                <path fill="#FEFEFE" d="M-7 33L-7 28.525 6.828 21 12 21z" mask="url(#prefix__d)"/>
+                <path stroke="#FEFEFE" stroke-width="3" d="M-7 33L-7 28.525 6.828 21 12 21z" mask="url(#prefix__d)"/>
+                <path fill="#E5332A" d="M-7 31L-7 29.719 8.005 21 10 21z" mask="url(#prefix__d)"/>
+                <path stroke="#E5332A" stroke-width="3" d="M-7 31L-7 29.719 8.005 21 10 21z" mask="url(#prefix__d)"/>
+                <path fill="#FEFEFE" d="M43 1L43 5.475 29.172 13 24 13z" mask="url(#prefix__d)"/>
+                <path stroke="#FEFEFE" stroke-width="3" d="M43 1L43 5.475 29.172 13 24 13z" mask="url(#prefix__d)"/>
+                <path fill="#E5332A" d="M43 2L43 3.281 28.028 12 26 12z" mask="url(#prefix__d)"/>
+                <path stroke="#E5332A" stroke-width="3" d="M44 2L44 3.281 29.028 12 27 12z" mask="url(#prefix__d)"/>
+                <path fill="#FEFEFE" d="M-7 1L-7 4.985 6.244 13 11 13z" mask="url(#prefix__d)"/>
+                <path stroke="#FEFEFE" stroke-width="3" d="M-7 1L-7 4.985 6.244 13 11 13z" mask="url(#prefix__d)"/>
+                <path fill="#E5332A" d="M-7 2L-7 3.197 7.188 13 9 13z" mask="url(#prefix__d)"/>
+                <path stroke="#E5332A" stroke-width="3" d="M-7 2L-7 3.197 7.188 13 9 13z" mask="url(#prefix__d)"/>
+                <path fill="#FEFEFE" d="M-7 21L43 21 43 13 -7 13z" mask="url(#prefix__d)"/>
+                <path stroke="#FEFEFE" d="M-7 21L43 21 43 13 -7 13z" mask="url(#prefix__d)"/>
+                <path fill="#FEFEFE" d="M14 33L22 33 22 1 14 1z" mask="url(#prefix__d)"/>
+                <path stroke="#FEFEFE" d="M14 33L22 33 22 1 14 1z" mask="url(#prefix__d)"/>
+                <path stroke="#E5332A" stroke-width="7" d="M18 0L18 34M-8 17L44 17" mask="url(#prefix__d)"/>
+            </g>
+        </g>
+    </g>
+</svg>

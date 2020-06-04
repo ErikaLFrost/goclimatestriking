@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="389px" viewBox="0 0 375 389" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>ic_polygon@1x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.4">
+        <g id="DT-Reg" transform="translate(-924.000000, -597.000000)" fill="#46C0B8">
+            <path d="M1131.5,600.547005 L1266.87014,678.702995 C1279.24619,685.848306 1286.87014,699.053387 1286.87014,713.344011 L1286.87014,869.655989 C1286.87014,883.946613 1279.24619,897.151694 1266.87014,904.297005 L1131.5,982.452995 C1119.12396,989.598306 1103.87604,989.598306 1091.5,982.452995 L956.129856,904.297005 C943.753813,897.151694 936.129856,883.946613 936.129856,869.655989 L936.129856,713.344011 C936.129856,699.053387 943.753813,685.848306 956.129856,678.702995 L1091.5,600.547005 C1103.87604,593.401694 1119.12396,593.401694 1131.5,600.547005 Z" id="ic_polygon" style="mix-blend-mode: multiply;" transform="translate(1111.500000, 791.500000) rotate(-290.000000) translate(-1111.500000, -791.500000) "></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>ic_notice@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="M-Done" transform="translate(-52.000000, -722.000000)">
+            <g id="action" transform="translate(-23.000000, 712.000000)">
+                <g id="ic_notice" transform="translate(75.000000, 10.000000)">
+                    <circle id="Oval" fill="#FFB600" cx="22" cy="22" r="22"></circle>
+                    <g id="Group" transform="translate(19.000000, 9.000000)" fill="#FFFFFF">
+                        <rect id="Rectangle-Copy" x="0" y="21" width="6" height="6" rx="3"></rect>
+                        <rect id="Rectangle" x="0" y="0" width="6" height="18" rx="3"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

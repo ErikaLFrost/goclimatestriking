@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="65px" viewBox="0 0 73 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>ic_2drops</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="M-Reg" transform="translate(-255.000000, -45.000000)">
+            <g id="ic_2drops" transform="translate(255.000000, 45.000000)">
+                <path d="M20.5,65 C31.8218374,65 41,55.9462027 41,44.7777778 C41,33.6093528 22.6805889,17 20.5,17 C18.3194111,17 0,33.6093528 0,44.7777778 C0,55.9462027 9.17816263,65 20.5,65 Z" id="Oval" fill="#4A90E2"></path>
+                <path d="M61.5,27 C67.8512746,27 73,21.907239 73,15.625 C73,9.34276097 62.7232572,0 61.5,0 C60.2767428,0 50,9.34276097 50,15.625 C50,21.907239 55.1487254,27 61.5,27 Z" id="Oval-Copy-2" fill="#2E4FD0"></path>
+            </g>
+        </g>
+    </g>
+</svg>

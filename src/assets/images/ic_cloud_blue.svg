@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="242px" height="117px" viewBox="0 0 242 117" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>ic_cloud_blue@1x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DT-Done" transform="translate(-211.000000, -530.000000)" fill="#A4CEFF">
+            <path d="M217.273438,632.839844 C232.605469,652.738281 446.545775,649.729969 451.632263,629.197016 C456.71875,608.664062 444.132813,567.554688 421.132813,559.769531 C405.39169,554.441397 391.792969,557.386719 379.871094,575.921875 C377.204271,580.068033 368.675127,530.09375 319.960938,530.09375 C275.370711,530.09375 265.882558,572.465248 262.039063,587.160156 C260.034641,594.823699 260.598624,579.718538 250.285991,579.718538 C220.198798,579.718538 201.941406,612.941406 217.273438,632.839844 Z" id="ic_cloud_blue" style="mix-blend-mode: multiply;"></path>
+        </g>
+    </g>
+</svg>
